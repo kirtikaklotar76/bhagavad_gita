@@ -57,4 +57,13 @@ making the app inclusive and accessible to a wider audience.
 
 **Preview Screenshots:-**
 
+<img src= "https://github.com/kirtikaklotar76/bhagavad_gita/assets/131134576/6aecc401-5af9-4029-a6b1-c6cdd81ed39d" width="250px"></img>!
+<img src= "https://github.com/kirtikaklotar76/bhagavad_gita/assets/131134576/1e5a47cc-3bb0-4bd4-b7b2-9701b948d1e8" width="250px"></img>!
+<img src= "https://github.com/kirtikaklotar76/bhagavad_gita/assets/131134576/f96e06bc-71aa-49cf-9c8c-7bc34e5627d3" width="250px"></img>!
+<img src= "https://github.com/kirtikaklotar76/bhagavad_gita/assets/131134576/b4ac932f-24ee-4aa5-ba9d-a84c0ff14acb" width="250px"></img>!
+<img src= "https://github.com/kirtikaklotar76/bhagavad_gita/assets/131134576/4d62fed5-4e8c-4288-92ca-377217319d49" width="250px"></img>!
+<img src= "https://github.com/kirtikaklotar76/bhagavad_gita/assets/131134576/fac3924c-99a6-4f36-89ed-aa57deb96491" width="250px"></img>!
 
+
+Thank You,
+Kirti Kaklotar
